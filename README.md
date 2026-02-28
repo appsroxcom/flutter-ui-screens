@@ -22,6 +22,6 @@
 | Welcome | 5 |
 
 # Preview
-[![click to view](http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg)](http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4)
+[![click to view](preview.png)](https://www.instagram.com/appsroxcom/reel/DVTvxD3ilxB/)
 
 More screens coming soon! :star: Star the repo to support the initiative.
