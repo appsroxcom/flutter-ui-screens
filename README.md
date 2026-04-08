@@ -22,6 +22,6 @@
 | Welcome | 5 |
 
 # Preview
-[![click to view](preview.png)](https://www.instagram.com/appsroxcom/reel/DVTvxD3ilxB/)
+[![click to view](preview.png)](preview.mp4)
 
 More screens coming soon! :star: Star the repo to support the initiative.
